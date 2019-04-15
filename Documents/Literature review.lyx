@@ -154,15 +154,24 @@ Bayes - 92.35% и Логистиская регрессия - 93.34%.
 \end_layout
 
 \begin_layout Standard
+Ещё 1 работа по анализу тональности отзывов с сайта Amazon является работа
+ [10], где авторы 
+\end_layout
+
+\begin_layout Standard
 ДОДЕЛАТЬ:
 \end_layout
 
 \begin_layout Standard
-4 автора в [11] провели анализ тональности отзывов об отелях, расположенных
+// 4 автора в [12] провели анализ тональности отзывов об отелях, расположенных
  в Нью-Йорке.
  В основе анализа лежал подход, основанный на использовании словаря тональности
  (Lexicon-based), в работе происходила классификация отзывов на три класса:
  положительные, нейтральные и отрицательные.
+\end_layout
+
+\begin_layout Standard
+//
 \end_layout
 
 \begin_layout Standard
@@ -171,7 +180,7 @@ Bayes - 92.35% и Логистиская регрессия - 93.34%.
 \end_layout
 
 \begin_layout Standard
-В работе [10] авторы применяют метод Modified Balanced Winnow к трём наборам
+В работе [11] авторы применяют метод Modified Balanced Winnow к трём наборам
  данных: Sanders Corpus (Twitter), STS_Gold (Twitter), SentiStrength (MySpace,
  YouTube, BBC и другие).
 \end_layout

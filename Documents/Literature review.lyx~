@@ -172,7 +172,9 @@ Bayes - 92.35% и Логистиская регрессия - 93.34%.
 
 \begin_layout Standard
 В работе [10] авторы применяют метод Modified Balanced Winnow к трём наборам
- данных: STS_Gold (только данные Twitter), 
+ данных: Sanders Corpus (Twitter), STS_Gold (Twitter), SentiStrength (MySpace,
+ YouTube, BBC и другие).
+ 
 \end_layout
 
 \end_body
