@@ -181,6 +181,20 @@ status open
 
 \end_deeper
 \begin_layout Enumerate
+Методы, основанные на статистическом подходе:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Hidden Markov Model (HMM)
+\end_layout
+
+\begin_layout Itemize
+Latent Dirichlet Allocation (LDA)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
 Другие методы:
 \end_layout
 
