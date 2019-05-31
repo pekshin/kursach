@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.4.9)  31 MAY 2019 11:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.4.9)  31 MAY 2019 21:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -891,819 +891,943 @@ Overfull \hbox (18.53693pt too wide) in paragraph at lines 200--201
 а (по-ло-жи-тель-ный/отрицательный),
  []
 
-[5] [6]
-Overfull \hbox (36.29349pt too wide) in paragraph at lines 286--287
-\T2A/cmr/m/n/12 тов в кол-лек-ции $\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 D\OMS/cms
-y/m/n/12 j$ \T2A/cmr/m/n/12 к чис-лу до-ку-мен-тов, где при-сут-ству-ет дан-ное
- сло-во $\OMS/cmsy/m/n/12 j[]j$
- []
+[5] [6] [7] [8]
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:344: Missing
+ $ inserted.
+<inserted text> 
+                $
+l.344 		\begin{bmatrix}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-[7]
-Overfull \hbox (4.99864pt too wide) in paragraph at lines 301--301
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:348: Missing
+ $ inserted.
+<inserted text> 
+                $
+l.348 		\end{bmatrix}
+                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (4.99864pt too wide) in paragraph at lines 355--355
 []\T2A/cmr/bx/n/14.4 Формальная по-ста-нов-ка за-да-чи обу-че-ния ли-ней-но-го 
 клас-
  []
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:306: Double 
-subscript.
-l.306 $a(x,w) = sign(\sum^n_j_
-                              =_1 w_j*f_j(x) - w_0) = sign\langle x,w \rangle$,
-I treat `x_1_2' essentially like `x_1{}_2'.
+[9]
+<sigmoid_func.png, id=187, 393.47pt x 266.9975pt>
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:306: Double 
-subscript.
-l.306 $a(x,w) = sign(\sum^n_j_=_
-                                1 w_j*f_j(x) - w_0) = sign\langle x,w \rangle$,
-I treat `x_1_2' essentially like `x_1{}_2'.
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:399: Illegal
+ unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.399 ...ludegraphics[width=350]{sigmoid_func.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:321: Double 
-subscript.
-l.321 $Q(w) = \sum_i_
-                     =_1 {ln(1+exp(-y_i*\langle x_i,w \rangle))} \rightarrow...
-I treat `x_1_2' essentially like `x_1{}_2'.
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:399: Illegal
+ unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.399 ...ludegraphics[width=350]{sigmoid_func.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:321: Double 
-subscript.
-l.321 $Q(w) = \sum_i_=_
-                       1 {ln(1+exp(-y_i*\langle x_i,w \rangle))} \rightarrow...
-I treat `x_1_2' essentially like `x_1{}_2'.
+File: sigmoid_func.png Graphic file (type png)
+<use sigmoid_func.png>
+Package pdftex.def Info: sigmoid_func.png  used on input line 399.
+(pdftex.def)             Requested size: 350.0pt x 237.49663pt.
+[10 <./sigmoid_func.png>]
 
-[8] [9] [10]
-Overfull \hbox (17.21375pt too wide) in paragraph at lines 442--443
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:417: LaTeX E
+rror: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.417  $$y = \begin{equation*}
+                              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:422: Missing
+ \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.422 \end{equation*}
+                      $$
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:422: LaTeX E
+rror: \begin{document} ended by \end{equation*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.422 \end{equation*}
+                      $$
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:422: Extra \
+endgroup.
+<recently read> \endgroup 
+                          
+l.422 \end{equation*}
+                      $$
+Things are pretty mixed up, but I think the worst is over.
+
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:423: Missing
+ $ inserted.
+<inserted text> 
+                $
+l.423 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:423: Display
+ math should end with $$.
+<to be read again> 
+                   \par 
+l.423 
+      
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+[11] [12] [13] [14]
+Overfull \hbox (17.21375pt too wide) in paragraph at lines 594--595
 []\T2A/cmr/m/n/12 Итак, об-ра-бо-тав от-зы-вы в фор-ма-те json и пе-ре-ве-дя их
  в фор-мат pandas[][][][][] - DataFrame,
  []
 
+[15]
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:456: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:608: LaTeX E
 rror: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.456 \caption
+l.608 \caption
               {Количество отзывов по классам тональности }
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:458: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:610: LaTeX E
 rror: Illegal character in array arg.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.458 $\begin{tabular}{c|f|f|ff|}
+l.610 $\begin{tabular}{c|f|f|ff|}
                                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:458: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:610: LaTeX E
 rror: Illegal character in array arg.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.458 $\begin{tabular}{c|f|f|ff|}
+l.610 $\begin{tabular}{c|f|f|ff|}
                                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:458: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:610: LaTeX E
 rror: Illegal character in array arg.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.458 $\begin{tabular}{c|f|f|ff|}
+l.610 $\begin{tabular}{c|f|f|ff|}
                                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:458: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:610: LaTeX E
 rror: Illegal character in array arg.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.458 $\begin{tabular}{c|f|f|ff|}
+l.610 $\begin{tabular}{c|f|f|ff|}
                                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (8.60866pt too wide) in paragraph at lines 458--472
+Overfull \hbox (8.60866pt too wide) in paragraph at lines 610--624
 []$[]$ 
  []
 
-[11]
+[16]
 No file РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.bbl.
-[12]
+[17]
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:821: Missing
+ $ inserted.
+<inserted text> 
+                $
+l.821 .../scikit-learn.org/stable/modules/feature_
+                                                  extraction.html#tfidf-term...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 821.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 821.
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:821: You can
+'t use `macro parameter character #' in math mode.
+l.821 ...g/stable/modules/feature_extraction.html#
+                                                  tfidf-term-weighting
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:822: Missing
+ $ inserted.
+<inserted text> 
+                $
+l.822 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyru unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by у
+l.836 \by у
            знать как сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyrz unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by уз
+l.836 \by уз
             нать как сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyrn unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узн
+l.836 \by узн
              ать как сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyra unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узна
+l.836 \by узна
               ть как сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyrt unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнат
+l.836 \by узнат
                ь как сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyrsftsn unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать
+l.836 \by узнать
                  как сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyrk unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать к
+l.836 \by узнать к
                   ак сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyra unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать ка
+l.836 \by узнать ка
                    к сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyrk unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать как
+l.836 \by узнать как
                      сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyrs unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать как с
+l.836 \by узнать как с
                       айты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyra unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать как са
+l.836 \by узнать как са
                        йты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyrishrt unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать как сай
+l.836 \by узнать как сай
                         ты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyrt unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать как сайт
+l.836 \by узнать как сайт
                          ы оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyrery unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать как сайты
+l.836 \by узнать как сайты
                            оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyro unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать как сайты о
+l.836 \by узнать как сайты о
                             формлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyrf unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать как сайты оф
+l.836 \by узнать как сайты оф
                              ормлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyro unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать как сайты офо
+l.836 \by узнать как сайты офо
                               рмлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyrr unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать как сайты офор
+l.836 \by узнать как сайты офор
                                млять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyrm unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать как сайты оформ
+l.836 \by узнать как сайты оформ
                                 лять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyrl unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать как сайты оформл
+l.836 \by узнать как сайты оформл
                                  ять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyrya unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать как сайты оформля
+l.836 \by узнать как сайты оформля
                                   ть
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyrt unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать как сайты оформлят
+l.836 \by узнать как сайты оформлят
                                    ь
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:633: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:836: LaTeX E
 rror: Command \cyrsftsn unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.633 \by узнать как сайты оформлять
+l.836 \by узнать как сайты оформлять
                                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyru unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by у
+l.842 \by у
            знать как сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyrz unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by уз
+l.842 \by уз
             нать как сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyrn unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узн
+l.842 \by узн
              ать как сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyra unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узна
+l.842 \by узна
               ть как сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyrt unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнат
+l.842 \by узнат
                ь как сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyrsftsn unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать
+l.842 \by узнать
                  как сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyrk unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать к
+l.842 \by узнать к
                   ак сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyra unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать ка
+l.842 \by узнать ка
                    к сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyrk unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать как
+l.842 \by узнать как
                      сайты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyrs unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать как с
+l.842 \by узнать как с
                       айты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyra unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать как са
+l.842 \by узнать как са
                        йты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyrishrt unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать как сай
+l.842 \by узнать как сай
                         ты оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyrt unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать как сайт
+l.842 \by узнать как сайт
                          ы оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyrery unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать как сайты
+l.842 \by узнать как сайты
                            оформлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyro unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать как сайты о
+l.842 \by узнать как сайты о
                             формлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyrf unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать как сайты оф
+l.842 \by узнать как сайты оф
                              ормлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyro unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать как сайты офо
+l.842 \by узнать как сайты офо
                               рмлять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyrr unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать как сайты офор
+l.842 \by узнать как сайты офор
                                млять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyrm unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать как сайты оформ
+l.842 \by узнать как сайты оформ
                                 лять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyrl unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать как сайты оформл
+l.842 \by узнать как сайты оформл
                                  ять
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyrya unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать как сайты оформля
+l.842 \by узнать как сайты оформля
                                   ть
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyrt unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать как сайты оформлят
+l.842 \by узнать как сайты оформлят
                                    ь
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:639: LaTeX E
+./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.tex:842: LaTeX E
 rror: Command \cyrsftsn unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.639 \by узнать как сайты оформлять
+l.842 \by узнать как сайты оформлять
                                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 732.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 732.
+[18]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 935.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 935.
  (./РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 732.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 732.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 935.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 935.
 Package rerunfilecheck Info: File `РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµ
 РІ_Р”РµРЅРёСЃ_v2.out' has not changed.
-(rerunfilecheck)             Checksum: 6196D6333DE79A8DD50C499A3F094C5F;4619.
+(rerunfilecheck)             Checksum: 9C900B544279E8C3D6F9907500D536DC;4731.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 732.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 935.
  ) 
 Here is how much of TeX's memory you used:
- 12104 strings out of 492616
- 164599 string characters out of 6128983
- 255125 words of memory out of 5000000
- 15767 multiletter control sequences out of 15000+600000
- 29829 words of font info for 74 fonts, out of 8000000 for 9000
+ 12148 strings out of 492616
+ 165275 string characters out of 6128983
+ 255266 words of memory out of 5000000
+ 15801 multiletter control sequences out of 15000+600000
+ 31242 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,12n,45p,1152b,782s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,12n,45p,1152b,768s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 }</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
-/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
-r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
-local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
-cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local
-/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
-xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
-live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texli
-ve/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
-e/2018/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/texlive/
-2018/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/20
-18/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2018
-/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2018/t
-exmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2018/tex
-mf-dist/fonts/type1/public/cm-super/sfrb1200.pfb></usr/local/texlive/2018/texmf
--dist/fonts/type1/public/cm-super/sfrb2074.pfb></usr/local/texlive/2018/texmf-d
-ist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2018/texmf-dis
-t/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2018/texmf-dist/
-fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2018/texmf-dist/fo
-nts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2018/texmf-dist/font
-s/type1/public/cm-super/sfti0800.pfb></usr/local/texlive/2018/texmf-dist/fonts/
-type1/public/cm-super/sfti1095.pfb>
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
+texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
+live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
+e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive
+/2018/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/texlive/2
+018/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/201
+8/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2018/
+texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2018/te
+xmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2018/texm
+f-dist/fonts/type1/public/cm-super/sfrb1200.pfb></usr/local/texlive/2018/texmf-
+dist/fonts/type1/public/cm-super/sfrb2074.pfb></usr/local/texlive/2018/texmf-di
+st/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2018/texmf-dist
+/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2018/texmf-dist/f
+onts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2018/texmf-dist/fon
+ts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2018/texmf-dist/fonts
+/type1/public/cm-super/sfti0800.pfb></usr/local/texlive/2018/texmf-dist/fonts/t
+ype1/public/cm-super/sfti1095.pfb>
 Output written on РљСѓСЂСЃРѕРІР°СЏ_СЂР°Р±РѕС‚Р°_РџРµС…С‚РµСЂРµРІ_Р”РµРЅРёСЃ_v2.
-pdf (13 pages, 474015 bytes).
+pdf (18 pages, 511680 bytes).
 PDF statistics:
- 313 PDF objects out of 1000 (max. 8388607)
- 269 compressed objects within 3 object streams
- 66 named destinations out of 1000 (max. 500000)
- 158 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 347 PDF objects out of 1000 (max. 8388607)
+ 295 compressed objects within 3 object streams
+ 74 named destinations out of 1000 (max. 500000)
+ 163 words of extra memory for PDF output out of 10000 (max. 10000000)
 
