@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.4.9)  2 JUN 2019 12:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.4.9)  2 JUN 2019 13:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -815,61 +815,63 @@ LaTeX Info: Redefining \nameref on input line 69.
 \openout4 = `KR_Pekhterev_D.out'.
 
 \c@lstlisting=\count141
- [1
-
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./KR_P
-ekhterev_D.toc
-LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+LaTeX Font Info:    Try loading font information for U+msa on input line 101.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+LaTeX Font Info:    Try loading font information for U+msb on input line 101.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 4.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 101.
+
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 4.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 101.
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 4.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 101.
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 4.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 4.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 101.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 101.
+
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 101.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 101.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 4.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 101.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 101.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Try loading font information for PD1+cmr on input line 4.
-LaTeX Font Info:    No file PD1cmr.fd. on input line 4.
+LaTeX Font Info:    Try loading font information for PD1+cmr on input line 101.
+
+LaTeX Font Info:    No file PD1cmr.fd. on input line 101.
 
 
 LaTeX Font Warning: Font shape `PD1/cmr/m/n' undefined
-(Font)              using `PD1/pdf/m/n' instead on input line 4.
+(Font)              using `PD1/pdf/m/n' instead on input line 101.
 
-LaTeX Font Info:    Try loading font information for PU+cmr on input line 4.
-LaTeX Font Info:    No file PUcmr.fd. on input line 4.
+LaTeX Font Info:    Try loading font information for PU+cmr on input line 101.
+LaTeX Font Info:    No file PUcmr.fd. on input line 101.
 
 LaTeX Font Warning: Font shape `PU/cmr/m/n' undefined
-(Font)              using `PU/pdf/m/n' instead on input line 4.
+(Font)              using `PU/pdf/m/n' instead on input line 101.
 
-)
+[1
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./KR_Pekhterev_D.toc)
 \tf@toc=\write5
 \openout5 = `KR_Pekhterev_D.toc'.
 
@@ -889,30 +891,30 @@ No file intro_var2.tex.
 
 
 ]
-Overfull \hbox (1.05789pt too wide) in paragraph at lines 162--163
+Overfull \hbox (1.05789pt too wide) in paragraph at lines 165--166
 []\T2A/cmr/m/n/14.4 Используемый ме-тод: ме-тод ре-гу-ля-ри-зо-ван-ной ло-ги-ст
 и-че-ской ре-грес-
  []
 
 [4]
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <5> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 200.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 203.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <5> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 200.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 203.
  [5]
-<methods.jpg, id=144, 904.37875pt x 487.8225pt>
+<methods.jpg, id=140, 904.37875pt x 487.8225pt>
 
-./KR_Pekhterev_D.tex:227: Illegal unit of measure (pt inserted).
+./KR_Pekhterev_D.tex:230: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.227 	\includegraphics[width=450]{methods.jpg}
+l.230 	\includegraphics[width=450]{methods.jpg}
                                                
 ? s
 OK, entering \scrollmode...
-./KR_Pekhterev_D.tex:227: Illegal unit of measure (pt inserted).
+./KR_Pekhterev_D.tex:230: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.227 	\includegraphics[width=450]{methods.jpg}
+l.230 	\includegraphics[width=450]{methods.jpg}
                                                
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -923,16 +925,16 @@ two letters. (See Chapter 27 of The TeXbook.)
 
 File: methods.jpg Graphic file (type jpg)
 <use methods.jpg>
-Package pdftex.def Info: methods.jpg  used on input line 227.
+Package pdftex.def Info: methods.jpg  used on input line 230.
 (pdftex.def)             Requested size: 450.0pt x 242.72711pt.
 
-Overfull \hbox (4.3125pt too wide) in paragraph at lines 239--240
+Overfull \hbox (4.3125pt too wide) in paragraph at lines 242--243
 \T2A/cmr/m/n/14.4 поль-зо-ва-нии ме-ры, ко-то-рая по-ка-зы-ва-ет кон-текст-ную 
 связь меж-
  []
 
 [6]
-Overfull \hbox (1.8791pt too wide) in paragraph at lines 244--245
+Overfull \hbox (1.8791pt too wide) in paragraph at lines 247--248
 []\T2A/cmr/m/n/14.4 Методы, суть ко-то-рых за-клю-ча-ет-ся в умень-ше-нии раз-м
 ер-но-сти дан-
  []
@@ -941,30 +943,30 @@ Overfull \hbox (1.8791pt too wide) in paragraph at lines 244--245
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7 <./methods.jpg>]
-Overfull \hbox (19.7146pt too wide) in paragraph at lines 246--247
+Overfull \hbox (19.7146pt too wide) in paragraph at lines 249--250
 []\T2A/cmr/m/n/14.4 Латентно-семантический ана-лиз (от ан-гл. Latent Semantic I
 ndexing
  []
 
 [8] [9] [10] [11]
-Overfull \hbox (22.64664pt too wide) in paragraph at lines 371--372
+Overfull \hbox (22.64664pt too wide) in paragraph at lines 374--375
 []\T2A/cmr/m/n/14.4 Метод TF-IDF (TF ^^V term frequency, IDF ^^V inverse docume
 nt frequency). 
  []
 
 [12] [13]
-./KR_Pekhterev_D.tex:420: Missing $ inserted.
+./KR_Pekhterev_D.tex:423: Missing $ inserted.
 <inserted text> 
                 $
-l.420 		\begin{bmatrix}
+l.423 		\begin{bmatrix}
                        
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./KR_Pekhterev_D.tex:424: Missing $ inserted.
+./KR_Pekhterev_D.tex:427: Missing $ inserted.
 <inserted text> 
                 $
-l.424 		\end{bmatrix}
+l.427 		\end{bmatrix}
                      
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -973,18 +975,18 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (4.52913pt too wide) in paragraph at lines 429--430
+Overfull \hbox (4.52913pt too wide) in paragraph at lines 432--433
 \T2A/cmr/m/n/14.4 что яв-ля-ет-ся по-лез-ным свой-ством, осо-бен-но при ана-ли-
 зе та-ких пред-
  []
 
 [14]
-<sigmoid_func.png, id=227, 393.47pt x 266.9975pt>
+<sigmoid_func.png, id=223, 393.47pt x 266.9975pt>
 
-./KR_Pekhterev_D.tex:476: Illegal unit of measure (pt inserted).
+./KR_Pekhterev_D.tex:479: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.476 ...ludegraphics[width=350]{sigmoid_func.png}
+l.479 ...ludegraphics[width=350]{sigmoid_func.png}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -993,10 +995,10 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./KR_Pekhterev_D.tex:476: Illegal unit of measure (pt inserted).
+./KR_Pekhterev_D.tex:479: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.476 ...ludegraphics[width=350]{sigmoid_func.png}
+l.479 ...ludegraphics[width=350]{sigmoid_func.png}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1007,32 +1009,32 @@ two letters. (See Chapter 27 of The TeXbook.)
 
 File: sigmoid_func.png Graphic file (type png)
 <use sigmoid_func.png>
-Package pdftex.def Info: sigmoid_func.png  used on input line 476.
+Package pdftex.def Info: sigmoid_func.png  used on input line 479.
 (pdftex.def)             Requested size: 350.0pt x 237.49663pt.
 
-Overfull \hbox (2.2622pt too wide) in paragraph at lines 488--489
+Overfull \hbox (2.2622pt too wide) in paragraph at lines 491--492
 \T2A/cmr/m/n/14.4 жа-щие по-ряд-ко-вой шка-ле, на-при-мер: "неудо-вле-тво-ри-те
 ль-но" , "удо-
  []
 
 [15 <./sigmoid_func.png>]
 
-./KR_Pekhterev_D.tex:494: LaTeX Error: Bad math environment delimiter.
+./KR_Pekhterev_D.tex:497: LaTeX Error: Bad math environment delimiter.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.494  $$y = \begin{equation*}
+l.497  $$y = \begin{equation*}
                               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./KR_Pekhterev_D.tex:499: Missing \endgroup inserted.
+./KR_Pekhterev_D.tex:502: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.499 \end{equation*}
+l.502 \end{equation*}
                       $$
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1041,105 +1043,105 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-./KR_Pekhterev_D.tex:499: LaTeX Error: \begin{document} ended by \end{equation*
+./KR_Pekhterev_D.tex:502: LaTeX Error: \begin{document} ended by \end{equation*
 }.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.499 \end{equation*}
+l.502 \end{equation*}
                       $$
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./KR_Pekhterev_D.tex:499: Extra \endgroup.
+./KR_Pekhterev_D.tex:502: Extra \endgroup.
 <recently read> \endgroup 
                           
-l.499 \end{equation*}
+l.502 \end{equation*}
                       $$
 Things are pretty mixed up, but I think the worst is over.
 
-./KR_Pekhterev_D.tex:500: Missing $ inserted.
+./KR_Pekhterev_D.tex:503: Missing $ inserted.
 <inserted text> 
                 $
-l.500 
+l.503 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./KR_Pekhterev_D.tex:500: Display math should end with $$.
+./KR_Pekhterev_D.tex:503: Display math should end with $$.
 <to be read again> 
                    \par 
-l.500 
+l.503 
       
 The `$' that I just saw supposedly matches a previous `$$'.
 So I shall assume that you typed `$$' both times.
 
 [16] [17] [18] [19] [20]
-Overfull \hbox (9.29181pt too wide) in paragraph at lines 677--678
+Overfull \hbox (9.29181pt too wide) in paragraph at lines 680--681
 []\T2A/cmr/m/n/14.4 unixReviewTime/reviewTime ^^U вре-мя, ко-гда от-зыв был ост
 ав-лен поль-
  []
 
 
-Overfull \hbox (33.40845pt too wide) in paragraph at lines 680--681
+Overfull \hbox (33.40845pt too wide) in paragraph at lines 683--684
 []\T2A/cmr/m/n/14.4 Из этих столб-цов для ре-ша-е-мой за-да-чи бу-дут ин-те-рес
 -ны толь-ко reviewText
  []
 
 [21]
 
-./KR_Pekhterev_D.tex:700: LaTeX Error: Illegal character in array arg.
+./KR_Pekhterev_D.tex:703: LaTeX Error: Illegal character in array arg.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.700 \begin{tabular}{c|f|f|ff|}
+l.703 \begin{tabular}{c|f|f|ff|}
                                 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./KR_Pekhterev_D.tex:700: LaTeX Error: Illegal character in array arg.
+./KR_Pekhterev_D.tex:703: LaTeX Error: Illegal character in array arg.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.700 \begin{tabular}{c|f|f|ff|}
+l.703 \begin{tabular}{c|f|f|ff|}
                                 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./KR_Pekhterev_D.tex:700: LaTeX Error: Illegal character in array arg.
+./KR_Pekhterev_D.tex:703: LaTeX Error: Illegal character in array arg.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.700 \begin{tabular}{c|f|f|ff|}
+l.703 \begin{tabular}{c|f|f|ff|}
                                 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./KR_Pekhterev_D.tex:700: LaTeX Error: Illegal character in array arg.
+./KR_Pekhterev_D.tex:703: LaTeX Error: Illegal character in array arg.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.700 \begin{tabular}{c|f|f|ff|}
+l.703 \begin{tabular}{c|f|f|ff|}
                                 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (66.98463pt too wide) in paragraph at lines 700--711
+Overfull \hbox (66.98463pt too wide) in paragraph at lines 703--714
  [] 
  []
 
@@ -1149,13 +1151,13 @@ Underfull \vbox (badness 1527) has occurred while \output is active []
  [22]
 [23]
 
-LaTeX Warning: File ` coefficientselection.png' not found on input line 753.
+LaTeX Warning: File ` coefficientselection.png' not found on input line 756.
 
-< coefficientselection.png, id=289, 732.7375pt x 484.81125pt>
-./KR_Pekhterev_D.tex:753: Illegal unit of measure (pt inserted).
+< coefficientselection.png, id=285, 732.7375pt x 484.81125pt>
+./KR_Pekhterev_D.tex:756: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.753 ...ics[width=450]{ coefficientselection.png}
+l.756 ...ics[width=450]{ coefficientselection.png}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1164,10 +1166,10 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./KR_Pekhterev_D.tex:753: Illegal unit of measure (pt inserted).
+./KR_Pekhterev_D.tex:756: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.753 ...ics[width=450]{ coefficientselection.png}
+l.756 ...ics[width=450]{ coefficientselection.png}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1178,17 +1180,17 @@ two letters. (See Chapter 27 of The TeXbook.)
 
 File:  coefficientselection.png Graphic file (type png)
 <use  coefficientselection.png>
-Package pdftex.def Info:  coefficientselection.png  used on input line 753.
+Package pdftex.def Info:  coefficientselection.png  used on input line 756.
 (pdftex.def)             Requested size: 450.0pt x 297.74658pt.
 
-LaTeX Warning: File ` coefficientselectiontime.png' not found on input line 764
+LaTeX Warning: File ` coefficientselectiontime.png' not found on input line 767
 .
 
-< coefficientselectiontime.png, id=291, 729.72626pt x 484.81125pt>
-./KR_Pekhterev_D.tex:764: Illegal unit of measure (pt inserted).
+< coefficientselectiontime.png, id=287, 729.72626pt x 484.81125pt>
+./KR_Pekhterev_D.tex:767: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.764 ...width=450]{ coefficientselectiontime.png}
+l.767 ...width=450]{ coefficientselectiontime.png}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1197,10 +1199,10 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./KR_Pekhterev_D.tex:764: Illegal unit of measure (pt inserted).
+./KR_Pekhterev_D.tex:767: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.764 ...width=450]{ coefficientselectiontime.png}
+l.767 ...width=450]{ coefficientselectiontime.png}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1211,29 +1213,29 @@ two letters. (See Chapter 27 of The TeXbook.)
 
 File:  coefficientselectiontime.png Graphic file (type png)
 <use  coefficientselectiontime.png>
-Package pdftex.def Info:  coefficientselectiontime.png  used on input line 764.
+Package pdftex.def Info:  coefficientselectiontime.png  used on input line 767.
 
 (pdftex.def)             Requested size: 450.0pt x 298.96718pt.
 [24]
 
-./KR_Pekhterev_D.tex:780: LaTeX Error: Illegal character in array arg.
+./KR_Pekhterev_D.tex:783: LaTeX Error: Illegal character in array arg.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.780 \begin{tabular}{c|f}
+l.783 \begin{tabular}{c|f}
                           
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [25 <./ coefficientselection.png>]
-<movie_wordcloud.png, id=307, 817.0525pt x 751.80875pt>
+<movie_wordcloud.png, id=303, 817.0525pt x 751.80875pt>
 
-./KR_Pekhterev_D.tex:801: Illegal unit of measure (pt inserted).
+./KR_Pekhterev_D.tex:804: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.801 ...s[width=400, height=350]{movie_wordcloud}
+l.804 ...s[width=440, height=410]{movie_wordcloud}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1242,10 +1244,10 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./KR_Pekhterev_D.tex:801: Illegal unit of measure (pt inserted).
+./KR_Pekhterev_D.tex:804: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.801 ...s[width=400, height=350]{movie_wordcloud}
+l.804 ...s[width=440, height=410]{movie_wordcloud}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1256,13 +1258,13 @@ two letters. (See Chapter 27 of The TeXbook.)
 
 File: movie_wordcloud.png Graphic file (type png)
 <use movie_wordcloud.png>
-Package pdftex.def Info: movie_wordcloud.png  used on input line 801.
-(pdftex.def)             Requested size: 399.99768pt x 350.0119pt.
-<electr_wordcloud.png, id=310, 965.6075pt x 828.09375pt>
-./KR_Pekhterev_D.tex:813: Illegal unit of measure (pt inserted).
+Package pdftex.def Info: movie_wordcloud.png  used on input line 804.
+(pdftex.def)             Requested size: 440.00494pt x 410.0087pt.
+<electr_wordcloud.png, id=306, 965.6075pt x 828.09375pt>
+./KR_Pekhterev_D.tex:816: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.813 ...[width=450, height=370]{electr_wordcloud}
+l.816 ...[width=450, height=400]{electr_wordcloud}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1271,10 +1273,10 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./KR_Pekhterev_D.tex:813: Illegal unit of measure (pt inserted).
+./KR_Pekhterev_D.tex:816: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.813 ...[width=450, height=370]{electr_wordcloud}
+l.816 ...[width=450, height=400]{electr_wordcloud}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1285,60 +1287,62 @@ two letters. (See Chapter 27 of The TeXbook.)
 
 File: electr_wordcloud.png Graphic file (type png)
 <use electr_wordcloud.png>
-Package pdftex.def Info: electr_wordcloud.png  used on input line 813.
-(pdftex.def)             Requested size: 450.00476pt x 370.01053pt.
+Package pdftex.def Info: electr_wordcloud.png  used on input line 816.
+(pdftex.def)             Requested size: 450.00476pt x 400.00763pt.
 [26 <./ coefficientselectiontime.png>] [27 <./movie_wordcloud.png>] [28 <./elec
-tr_wordcloud.png>] [29]
+tr_wordcloud.png>] [29
+
+] [30]
 No file KR_Pekhterev_D.bbl.
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 1004.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 1008.
 
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 1004.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 1008.
 
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 1004.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 1008.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1004.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1008.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1004.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1008.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1004.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1008.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1003--1005
+Underfull \hbox (badness 10000) in paragraph at lines 1007--1009
 []\OT1/cmr/m/n/12 Scikit-learn, Tfidf-Trans-former [][]$\OT1/cmtt/m/n/12 https 
 : / / scikit-[]learn . org / stable / modules /
  []
 
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 101
-9.
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 102
+3.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Underfull \hbox (badness 2181) in paragraph at lines 1025--1027
+Underfull \hbox (badness 2181) in paragraph at lines 1029--1031
 []\T2A/cmr/m/n/12 Scikit-learn, Logistic regression Python [][]$\T2A/cmtt/m/n/1
 2 https : / / scikit-[]learn . org / stable /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1025--1027
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1031
 \T2A/cmtt/m/n/12 modules / generated / sklearn . linear _ model . LogisticRegre
 ssion . html #
  []
 
-[30]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1057.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1057.
+[31]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1061.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1061.
  (./KR_Pekhterev_D.aux (./intro_var2.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1057.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1057.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1061.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1061.
 
 Package rerunfilecheck Info: File `KR_Pekhterev_D.out' has not changed.
-(rerunfilecheck)             Checksum: 30B04E54E817AFC1F115D8CA594F9E5D;4341.
+(rerunfilecheck)             Checksum: 6F1354C7AB690A872FF2B679C3A57A35;4225.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1346,13 +1350,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1057.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1061.
  ) 
 Here is how much of TeX's memory you used:
- 13546 strings out of 492616
- 187316 string characters out of 6128983
+ 13545 strings out of 492616
+ 187297 string characters out of 6128983
  274884 words of memory out of 5000000
- 17145 multiletter control sequences out of 15000+600000
+ 17143 multiletter control sequences out of 15000+600000
  26180 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,12n,45p,1105b,699s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1376,10 +1380,10 @@ ve/2018/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive
 texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2018/te
 xmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2018/texm
 f-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on KR_Pekhterev_D.pdf (30 pages, 690585 bytes).
+Output written on KR_Pekhterev_D.pdf (31 pages, 690107 bytes).
 PDF statistics:
- 436 PDF objects out of 1000 (max. 8388607)
+ 437 PDF objects out of 1000 (max. 8388607)
  369 compressed objects within 4 object streams
- 95 named destinations out of 1000 (max. 500000)
- 183 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 96 named destinations out of 1000 (max. 500000)
+ 175 words of extra memory for PDF output out of 10000 (max. 10000000)
 
