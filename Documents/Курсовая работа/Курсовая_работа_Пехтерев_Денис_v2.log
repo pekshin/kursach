@@ -962,4 +962,26 @@ I'm ignoring this; it doesn't match any \if.
 ! Incomplete \iffalse; all text was ignored after line 69.
 <inserted text> 
                 \fi 
-<*> ...бота_Пехтерев_Ден
+<*> ...бота_Пехтерев_Денис_v2.tex
+                                                  
+The file ended while I was skipping conditional text.
+This kind of error happens when you say `\if...' and forget
+the matching `\fi'. I've inserted a `\fi'; this might work.
+
+
+*
+! Emergency stop.
+<*> ...бота_Пехтерев_Денис_v2.tex
+                                                  
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 11827 strings out of 492616
+ 162693 string characters out of 6128983
+ 246103 words of memory out of 5000000
+ 15590 multiletter control sequences out of 15000+600000
+ 5546 words of font info for 17 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 35i,1n,45p,994b,70s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
