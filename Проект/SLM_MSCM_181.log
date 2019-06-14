@@ -1,0 +1,2144 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.4.9)  23 MAY 2019 08:16
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**SLM_MSCM_181.tex
+(./SLM_MSCM_181.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cyrillic/cp1251.def
+File: cp1251.def 2014/10/28 v1.0d Input encoding file
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/extsizes/extsizes.sty
+Package: extsizes 1996/10/08 v1.0 Non Standard LaTeX Package
+
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/t2aenc.dfu
+File: t2aenc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+))
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/11/13 3.27 The Babel package
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel-russian/russianb.ldf
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count89
+)
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count90
+\Gm@cntv=\count91
+\c@Gm@tempcnt=\count92
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks17
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(./SLM_MSCM_181.aux)
+\openout1 = `SLM_MSCM_181.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 483.69687pt, 28.45274pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-54.36449pt
+* \headheight=14.0pt
+* \headsep=25.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=15.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count93
+\scratchdimen=\dimen114
+\scratchbox=\box27
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen115
+\MPnumerator=\count97
+\makeMPintoPDFobject=\count98
+\everyMPtoPDFconversion=\toks19
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+./SLM_MSCM_181.tex:49: Missing } inserted.
+<inserted text> 
+                }
+l.49 	\end{flushright}
+                      
+? s
+OK, entering \scrollmode...
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+[1
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+./SLM_MSCM_181.tex:87: Missing $ inserted.
+<inserted text> 
+                $
+l.87 2.	—–≈ƒЌ≈≈ √ј–ћќЌ»„≈— ќ≈ (F2_
+                                  мера). ќбъедин€ет показатели точности рабо...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 87.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 87.
+./SLM_MSCM_181.tex:87: Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.87 2.	—–≈ƒЌ≈≈ √ј–ћќЌ»„≈— ќ≈ (F2_м
+                                   ера). ќбъедин€ет показатели точности рабо...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \CYRO invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrhrdsn invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrya invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrch invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrery invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrsh invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrya invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrzh invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrery invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrery invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrzh invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrery invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 87.
+
+
+LaTeX Warning: Command \CYRP invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \CYRL invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \CYRO invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \CYRSHCH invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \CYRA invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \CYRD invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \CYRSFTSN invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \CYRP invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \CYRO invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \CYRD invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \CYRR invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \CYRI invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \CYRV invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \CYRO invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \CYRISHRT invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \CYRYA invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrya invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrya invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrsh invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrch invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \CYREREV invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrch invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrya invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrch invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrch invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrya invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrery invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrhrdsn invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrch invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrc invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrzh invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrery invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrsh invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrch invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrch invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrya invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrery invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrishrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrhrdsn invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 88.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 88.
+
+./SLM_MSCM_181.tex:89: Missing $ inserted.
+<inserted text> 
+                $
+l.89 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./SLM_MSCM_181.tex:89: Missing } inserted.
+<inserted text> 
+                }
+l.89 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no м in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no ќ in font cmr10!
+Missing character: There is no б in font cmr10!
+Missing character: There is no ъ in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no д in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no п in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no з in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no ч in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no б in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no ы in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no г in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no м in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no г in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no п in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no у in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no ь in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no ь in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no х in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no ш in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no г in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no м in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no п in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no д in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no ж in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no ы in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no б in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no ы in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no й in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no ж in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no ы in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no п in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no п in font cmr10!
+Missing character: There is no у in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no ѕ in font cmr10!
+Missing character: There is no Ћ in font cmr10!
+Missing character: There is no ќ in font cmr10!
+Missing character: There is no ў in font cmr10!
+Missing character: There is no ј in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no № in font cmr10!
+Missing character: There is no ѕ in font cmr10!
+Missing character: There is no ќ in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no   in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ќ in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no я in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no п in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no й in font cmr10!
+Missing character: There is no м in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no й in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no м in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no ш in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no м in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no б in font cmr10!
+Missing character: There is no у in font cmr10!
+Missing character: There is no ч in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no Ё in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no п in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no з in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no ь in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no з in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no ч in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no г in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no ч in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no у in font cmr10!
+Missing character: There is no ч in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no й in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no з in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no ы in font cmr10!
+Missing character: There is no й in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no б in font cmr10!
+Missing character: There is no ъ in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no п in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no у in font cmr10!
+Missing character: There is no ч in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no ц in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no у in font cmr10!
+Missing character: There is no п in font cmr10!
+Missing character: There is no р in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no д in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no ж in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no у in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no ы in font cmr10!
+Missing character: There is no ш in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no ч in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no м in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no у in font cmr10!
+Missing character: There is no ч in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no й in font cmr10!
+Missing character: There is no н in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no в in font cmr10!
+Missing character: There is no з in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no ы in font cmr10!
+Missing character: There is no й in font cmr10!
+Missing character: There is no о in font cmr10!
+Missing character: There is no б in font cmr10!
+Missing character: There is no ъ in font cmr10!
+Missing character: There is no е in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no т in font cmr10!
+Missing character: There is no к in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no с in font cmr10!
+Missing character: There is no а in font cmr10!
+
+Overfull \hbox (17.82736pt too wide) in paragraph at lines 85--89
+\T2A/cmr/m/n/14.4 ность ал-го-рит-ма. 2. —–≈ƒ-Ќ≈≈ √ј–-ћќ-Ќ»-„≈-— ќ≈ (F2$[]$ 
+ []
+
+[2]
+<vlad.png, id=14, 375.3222pt x 280.8894pt>
+
+./SLM_MSCM_181.tex:95: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.95   \includegraphics[width=350]{vlad.png}
+                                            
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./SLM_MSCM_181.tex:95: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.95   \includegraphics[width=350]{vlad.png}
+                                            
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: vlad.png Graphic file (type png)
+<use vlad.png>
+Package pdftex.def Info: vlad.png  used on input line 95.
+(pdftex.def)             Requested size: 350.0pt x 261.94449pt.
+[3 <./vlad.png>]
+
+./SLM_MSCM_181.tex:111: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 $\begin{tabular}{c|f|f|ff|}
+                                 
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./SLM_MSCM_181.tex:111: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 $\begin{tabular}{c|f|f|ff|}
+                                 
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./SLM_MSCM_181.tex:111: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 $\begin{tabular}{c|f|f|ff|}
+                                 
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./SLM_MSCM_181.tex:111: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 $\begin{tabular}{c|f|f|ff|}
+                                 
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (43.52797pt too wide) in paragraph at lines 111--124
+[]$[]$ 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 133.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 133.
+ [4]
+./SLM_MSCM_181.tex:199: Undefined control sequence.
+l.199 $Base\text
+                {Rate}=\text{argmax }\frac{1}{l}\sum_{i=1}^{\text{l}}[y_{o}=...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./SLM_MSCM_181.tex:199: Undefined control sequence.
+l.199 $Base\text{Rate}=\text
+                            {argmax }\frac{1}{l}\sum_{i=1}^{\text{l}}[y_{o}=...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./SLM_MSCM_181.tex:199: Undefined control sequence.
+l.199 ...text{argmax }\frac{1}{l}\sum_{i=1}^{\text
+                                                  {l}}[y_{o}=y_{i}]$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./SLM_MSCM_181.tex:201: Undefined control sequence.
+l.201 $Accuracy\text
+                    {Rate}=\frac{\text{TP+TN}}{TP+FP+FN+TN}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./SLM_MSCM_181.tex:201: Undefined control sequence.
+<argument> \text 
+                 {TP+TN}
+l.201 ...xt{Rate}=\frac{\text{TP+TN}}{TP+FP+FN+TN}
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--203
+
+ []
+
+[5]
+<books_q.png, id=32, 266.9172pt x 128.1588pt>
+
+./SLM_MSCM_181.tex:223: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.223   \includegraphics[width=350]{books_q.png}
+                                                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./SLM_MSCM_181.tex:223: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.223   \includegraphics[width=350]{books_q.png}
+                                                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: books_q.png Graphic file (type png)
+<use books_q.png>
+Package pdftex.def Info: books_q.png  used on input line 223.
+(pdftex.def)             Requested size: 350.0pt x 168.05547pt.
+<cinema_q.png, id=33, 250.536pt x 128.1588pt>
+./SLM_MSCM_181.tex:229: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.229   \includegraphics[width=350]{cinema_q.png}
+                                                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./SLM_MSCM_181.tex:229: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.229   \includegraphics[width=350]{cinema_q.png}
+                                                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: cinema_q.png Graphic file (type png)
+<use cinema_q.png>
+Package pdftex.def Info: cinema_q.png  used on input line 229.
+(pdftex.def)             Requested size: 350.0pt x 179.03975pt.
+<med_q.png, id=34, 304.0158pt x 123.3408pt>
+./SLM_MSCM_181.tex:235: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.235   \includegraphics[width=350]{med_q.png}
+                                              
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./SLM_MSCM_181.tex:235: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.235   \includegraphics[width=350]{med_q.png}
+                                              
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: med_q.png Graphic file (type png)
+<use med_q.png>
+Package pdftex.def Info: med_q.png  used on input line 235.
+(pdftex.def)             Requested size: 350.0pt x 142.00266pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6 <./books_q.png> <./cinema_q.png>]
+<fig1.png, id=40, 609.77812pt x 324.46219pt>
+File: fig1.png Graphic file (type png)
+<use fig1.png>
+Package pdftex.def Info: fig1.png  used on input line 250.
+(pdftex.def)             Requested size: 483.69687pt x 257.38179pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<fig2.png, id=41, 1566.60281pt x 721.94719pt>
+File: fig2.png Graphic file (type png)
+<use fig2.png>
+Package pdftex.def Info: fig2.png  used on input line 259.
+(pdftex.def)             Requested size: 483.69687pt x 222.898pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation `tcloud' on page 7 undefined on input line 267.
+
+[7 <./med_q.png>]
+<1.png, id=47, 1094.58937pt x 646.66594pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 273.
+(pdftex.def)             Requested size: 217.66211pt x 128.59084pt.
+<2.png, id=48, 1094.58937pt x 644.4075pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 274.
+(pdftex.def)             Requested size: 217.66211pt x 128.14175pt.
+<3.png, id=49, 1094.58937pt x 644.4075pt>
+File: 3.png Graphic file (type png)
+<use 3.png>
+Package pdftex.def Info: 3.png  used on input line 275.
+(pdftex.def)             Requested size: 217.66211pt x 128.14175pt.
+<4.png, id=50, 1094.58937pt x 644.4075pt>
+File: 4.png Graphic file (type png)
+<use 4.png>
+Package pdftex.def Info: 4.png  used on input line 276.
+(pdftex.def)             Requested size: 217.66211pt x 128.14175pt.
+<c.png, id=51, 864.98157pt x 432.11438pt>
+File: c.png Graphic file (type png)
+<use c.png>
+Package pdftex.def Info: c.png  used on input line 286.
+(pdftex.def)             Requested size: 435.32422pt x 217.47426pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<roc.png, id=52, 770.88pt x 526.21594pt>
+File: roc.png Graphic file (type png)
+<use roc.png>
+Package pdftex.def Info: roc.png  used on input line 294.
+(pdftex.def)             Requested size: 435.32422pt x 297.16pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8 <./fig1.png>] [9 <./fig2.png>] [10 <./1.png (PNG copy)> <./2.png (PNG copy)>
+ <./3.png (PNG copy)> <./4.png (PNG copy)> <./c.png>] [11 <./roc.png>]
+(./SLM_MSCM_181.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3315 strings out of 492616
+ 46112 string characters out of 6128983
+ 122397 words of memory out of 5000000
+ 7169 multiletter control sequences out of 15000+600000
+ 9431 words of font info for 23 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,8n,25p,875b,223s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
+}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local
+/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/t
+exlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/tex
+live/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on SLM_MSCM_181.pdf (11 pages, 1526565 bytes).
+PDF statistics:
+ 106 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+
